@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Tests automáticos",
+      "setup": "npm install",
+      "run": "npm run test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
